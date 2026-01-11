@@ -43,3 +43,4 @@ C:\Users\Olan\OneDrive\Desktop\PerpusLSP\obj\Debug\net10.0-windows\PerpusLSP.For
 C:\Users\Olan\OneDrive\Desktop\PerpusLSP\obj\Debug\net10.0-windows\PerpusLSP.FormKatalog.resources
 C:\Users\Olan\OneDrive\Desktop\PerpusLSP\obj\Debug\net10.0-windows\PerpusLSP.Formpeminjaman.resources
 C:\Users\Olan\OneDrive\Desktop\PerpusLSP\obj\Debug\net10.0-windows\PerpusLSP.Formriwayat.resources
+C:\Users\Olan\OneDrive\Desktop\PerpusLSP\obj\Debug\net10.0-windows\PerpusLSP.sourcelink.json
